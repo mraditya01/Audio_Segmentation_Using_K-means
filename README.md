@@ -6,7 +6,7 @@
 * [Module](#modules-used)
 
 ## General Info
-My project to separate audio with the noise using k-means clustering based on the idea from the paper L. Marchegiani and I. Posner, "Leveraging the urban soundscape: Auditory perception for smart vehicles," 2017 IEEE International Conference on Robotics and Automation (ICRA), 2017, pp. 6547-6554, doi: 10.1109/ICRA.2017.7989774 [1](10.1109/ICRA.2017.7989774).
+My project to separate audio with the noise using k-means clustering based on the idea from the paper L. Marchegiani and I. Posner, "Leveraging the urban soundscape: Auditory perception for smart vehicles," 2017 IEEE International Conference on Robotics and Automation (ICRA), 2017, pp. 6547-6554, doi: 10.1109/ICRA.2017.7989774 [[**1**]](10.1109/ICRA.2017.7989774).
 
 
 ## Package Requirement

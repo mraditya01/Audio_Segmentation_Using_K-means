@@ -25,9 +25,11 @@ My project to separate audio with the noise using k-means clustering based on th
 The system consists of two main scripts:
 - `spec.py`
   - This script create a grayscale mel-spectrogram images with bandpassfilter from an audio using the datalist of a csv that you already created. 
-- `k-means.py.py`
+- `k-means.py`
   - This script cluster the grayscale mel-spectrogram images into several cluster then make a binary mask based on the threshold that you have decided.
-
+## Run
+- Run `spec.py` first to create grayscale mel-spectrogram images, then run `k-means.py` to create the binary mask.
+- Individual implementation using Jupyter Notebook is also provided on `note_masking.ipynb` and `note_filter.ipynb`.
 ## Check results
 You can check the spectrogram and k-means result in the image files in the directory **Ground_truth/mel_spec** and **Ground_truth/mask** respectively.
 
